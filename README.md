@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Adsu4
 - 👀 I’m interested in technology and innovation.
 - 🌱 I’m currently learning the art of programming.
-- 💞️ I’m looking to collaborate on... idk
-- 📫 How to reach me.. idk
+- 📫 How to reach me adharshsuvi@gmail.com
 
 <!---
 Adsu4/Adsu4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
